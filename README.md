@@ -26,3 +26,5 @@ Para rodar os testes:
 *npm test*
 
 **PLAYLIST NO YOUTUBE**
+
+https://www.youtube.com/playlist?list=PLOkU6KhSYdHQPoVpVjZ0DAMiM53ZUgPe5
